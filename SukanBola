@@ -1,73 +1,143 @@
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/e3e994ec1c91082831a3d.png",eGG Network CH800
-https://mastrotv.xyz/playlist/usee-egg-mastro-iptv.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena CH801
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_UNIFI.png",UNIFI SPORTS 1
+https://unifi-live05.secureswiftcontent.com:443/UnifiHD/live11.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Arena1.png",ASTRO ARENA 1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 CH812
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroArena2" group-title="SPORTS"" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Arena2.png",ASTRO ARENA 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",ASTRO SUPERSPORTS 1 (OTT)
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport2" group-title="SPORTS" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp2.png",ASTRO SUPERSPORTS 2 (OTT)
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp3.png",ASTRO SUPERSPORTS 3 (OTT)
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport4" group-title="SPORTS" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp4.png",ASTRO SUPERSPORTS 4 (OTT)
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-id="AstroSupersport5" group-title="SPORTS" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp5.png",ASTRO SUPERSPORTS 5 (OTT)
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+  
+
+  
+  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-https://aqfadtv.xyz/live/supersport2/index.mpd
+#KODIPROP:inputstream.adaptive.resolution=540p
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",ASTRO SUPERSPORTS
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 CH813
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://aqfadtv.xyz/live/supersport3/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144",BEIN 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 CH814
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://aqfadtv.xyz/live/supersport4/index.mpd
-
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",FOX Sports HD CH815
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",BEIN 2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-https://aqfadtv.xyz/live/supersport5/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",BEIN 3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",FOX Sports 2 HD CH816
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD CH817
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 CH818 [Set player HW sahaja]
-http://zalogitv.tech:8080/live/mastro-top/2323/11923.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 [Backup - Slow]
-https://nonton.site:8443/provision/pp/728
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/85ce73284a53df7227367.png",beIN Sport 2
-http://zalogitv.tech:8080/live/mastro-top/2323/11984.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/85ce73284a53df7227367.png",beIN Sport 2 [Backup - Slow]
-https://nonton.site:8443/provision/pp/729
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD1 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385863.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD2 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385864.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD3 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385865.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD4 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385866.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD5 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385867.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD6 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385868.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",BeinSports HD07 720p
-http://tv.rebeliptv.com:83/82936722/29038858/385869.ts
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/0d7094e8aae683dc7a40b.jpg",beIN Sport HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 [FR]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/eeba54c010eba631207cd.png",Eurosport HD CH820
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6784
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network CH821
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/d46503d9e729f2ac7e749.png",Golf Channel HD CH822
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/8e8f15b590910ce2690e7.png",RugbyPass TV CH823
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/61e100c080ad4be405dd6.png",Astro Cricket CH824
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4 HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",BEIN 4
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
+#EXTINF:-1 group-title="SPORTS" tvg-id="711.unifi" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_BEINS.png",BEIN 4
+https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHNBLnBGdikWbU5AdTRRX3CsUImIMhYkjzDaikuzhbGOnvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094144%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094144%2Curn:Huawei:liveTV:XTV57682031%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLy4_KxguvQJUqVWklAlt08b24UZyY2gGJv4dA2M7MGZ2pQKCvjUe0ZB1qJC0-LAVH2mqF4KyV2pkVq_TfZK9YgJS6MTYZZ2y_XR-k4IIrJblUrJ3vPhPEZdlchiMVr9_Ylsq1C-SxnvgVKocYC0WYujzy3wS3XUnLhFG7qEljnHJCm5URlk1z2kLtHw37g7rOwxkK4XeOT8CfIFViZwg9RGpgID9eUnpxPwUfNnfTbbtw9AAAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png",SPOTV 1
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png",SPOTV 2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Euro.png",EUROSPORTS
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="WWE Network HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_WWE.png",WWE NETWORK
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
+#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Golf.png",ASTRO GOLF
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
+#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Rugby.png",PREMIER SPORTS
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",ASTRO CRICKET
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 1 (CH795)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 2 (CH796)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 3 (CH797)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
