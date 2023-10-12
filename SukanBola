@@ -72,8 +72,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS"" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 3 (CH797)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="SPORTS" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" group-title="SPORTS" ch-number="802" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/AstroArena2.png",802 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIP#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
